@@ -22,20 +22,21 @@ html{
 }
 
 h1{
-	font: bold 40px "Century Gothic";
+	font: bold 40px "Oxygen";
 }
 h2{
-	font: 30px "Century Gothic";
+	font: 30px "Oxygen";
 }
 h3{
-	font: 22px "Century Gothic";
+	font: 22px "Oxygen";
 }
 h4{
-	font: 18px "Century Gothic";
+	font: 18px "Oxygen";
 }
 
 p{
 	margin: 5px;
+	font: 14px "Open Sans";
 }
 
 section{
