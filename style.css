@@ -48,7 +48,7 @@ section{
 	list-style: none;
 	display: inline-block;
 	text-align: left;
-	font: 16px Helvetica;
+	font: 16px Roboto;
 	margin-right: -5px;
 }
 .menu{
@@ -128,7 +128,7 @@ section{
 	text-decoration: none;
 	list-style: none;
 	display: block;
-	font: 16px Helvetica;
+	font: 16px Roboto;
 	background: rgb(15,127,171);
 	padding-top: 15px;
 	padding-bottom: 15px;
@@ -150,7 +150,7 @@ section{
 	text-shadow: rgb(0,255,0) 0px 0px 8px;
 }
 #theHeader h5{
-	font: 12px "Century Gothic";
+	font: 12px "Oxygen";
 	text-align: center;
 	min-width: 300px;
 	max-width: 100%;
